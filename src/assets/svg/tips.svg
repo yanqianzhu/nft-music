@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bell-fill</title>
+    <defs>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="100%" y1="100%" x2="1.27840909%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#877BFF" offset="0%"></stop>
+            <stop stop-color="#60A5FF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="发布原创音乐" transform="translate(-1846.000000, -21.000000)" fill-rule="nonzero">
+            <g id="bell-fill" filter="url(#filter-1)" transform="translate(1846.000000, 21.000000)">
+                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="30" height="30"></rect>
+                <path d="M23.90625,22.5 L23.203125,22.5 L23.203125,12.5390625 C23.203125,8.40527344 20.1474609,4.98632812 16.171875,4.41796875 L16.171875,3.28125 C16.171875,2.63378906 15.6474609,2.109375 15,2.109375 C14.3525391,2.109375 13.828125,2.63378906 13.828125,3.28125 L13.828125,4.41796875 C9.85253906,4.98632812 6.796875,8.40527344 6.796875,12.5390625 L6.796875,22.5 L6.09375,22.5 C5.57519531,22.5 5.15625,22.9189453 5.15625,23.4375 L5.15625,24.375 C5.15625,24.5039062 5.26171875,24.609375 5.390625,24.609375 L11.71875,24.609375 C11.71875,26.4199219 13.1894531,27.890625 15,27.890625 C16.8105469,27.890625 18.28125,26.4199219 18.28125,24.609375 L24.609375,24.609375 C24.7382812,24.609375 24.84375,24.5039062 24.84375,24.375 L24.84375,23.4375 C24.84375,22.9189453 24.4248047,22.5 23.90625,22.5 Z M15,26.015625 C14.2236328,26.015625 13.59375,25.3857422 13.59375,24.609375 L16.40625,24.609375 C16.40625,25.3857422 15.7763672,26.015625 15,26.015625 Z" id="形状" fill="url(#linearGradient-2)" filter="url(#filter-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

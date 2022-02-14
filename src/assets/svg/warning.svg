@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 12备份</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="发布原创音乐" transform="translate(-598.000000, -657.000000)">
+            <g id="编组-12备份" transform="translate(598.000000, 657.000000)">
+                <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="18" height="18"></rect>
+                <path d="M15.19994,2 L3.20006,2 C2.54018,2 2,2.54018 2,3.20006 L2,15.19994 C2,15.85982 2.54018,16.4 3.20006,16.4 L15.19994,16.4 C15.85982,16.4 16.4,15.85982 16.4,15.19994 L16.4,3.20006 C16.4,2.54018 15.85982,2 15.19994,2 Z" id="路径" fill="#FF0000" fill-rule="nonzero"></path>
+                <g filter="url(#filter-1)" id="编组-11">
+                    <g transform="translate(8.000000, 4.000000)">
+                        <path d="M0,8.75 C0,9.32989899 0.470101013,9.8 1.05,9.8 C1.62989899,9.8 2.1,9.32989899 2.1,8.75 C2.1,8.17010101 1.62989899,7.7 1.05,7.7 C0.470101013,7.7 0,8.17010101 0,8.75 Z" id="路径" fill="#000000" fill-rule="nonzero"></path>
+                        <path d="M0.525,6.3 L1.575,6.3 C1.67125,6.3 1.75,6.22125 1.75,6.125 L1.75,0.175 C1.75,0.07875 1.67125,0 1.575,0 L0.525,0 C0.42875,0 0.35,0.07875 0.35,0.175 L0.35,6.125 C0.35,6.22125 0.42875,6.3 0.525,6.3 Z" id="路径" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

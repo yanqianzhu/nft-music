@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 19</title>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#877BFF" offset="0%"></stop>
+            <stop stop-color="#7EB6FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="推荐" transform="translate(-1156.000000, -27.000000)">
+            <g id="编组-20" transform="translate(1140.000000, 15.000000)">
+                <g id="编组-4" transform="translate(16.000000, 11.000000)">
+                    <g id="编组-19" transform="translate(0.000000, 1.000000)">
+                        <circle id="椭圆形" fill="url(#linearGradient-1)" cx="9" cy="9" r="9"></circle>
+                        <polygon id="+发布视频" fill="#F9FDFF" fill-rule="nonzero" points="10.1454545 13.7912727 10.1454545 9.74618182 14.1709091 9.74618182 14.1709091 7.90036364 10.1454545 7.90036364 10.1454545 3.87490909 8.29963636 3.87490909 8.29963636 7.90036364 4.25454545 7.90036364 4.25454545 9.74618182 8.29963636 9.74618182 8.29963636 13.7912727"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
